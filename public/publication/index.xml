@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Huang Lab for Genomic Analysis, New York University</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Huang Lab for Genomic Analysis, New York University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Shao-shan Carol Huang</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Piecing together cis-regulatory networks: insights from epigenomics studies in plants</title>
+      <link>/publication/huang2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/huang2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network modeling of kinase inhibitor polypharmacology reveals pathways targeted in chemical screens</title>
+      <link>/publication/ursu2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ursu2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping genome-wide transcription-factor binding sites using DAP-seq</title>
+      <link>/publication/bartlett2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bartlett2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CrY2H-seq: a massively multiplexed assay for deep-coverage interactome mapping</title>
+      <link>/publication/trigg2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/trigg2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A transcription factor hierarchy defines an environmental stress response network</title>
+      <link>/publication/song2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/song2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epigenomic Diversity in a Global Collection of Arabidopsis thaliana Accessions</title>
+      <link>/publication/kawakatsu2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kawakatsu2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping transcription factor interactome networks using HaloTag protein arrays</title>
+      <link>/publication/yazaki2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/yazaki2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cistrome and Epicistrome Features Shape the Regulatory DNA Landscape</title>
+      <link>/publication/omalley2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/omalley2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptochromes Interact Directly with PIFs to Control Plant Growth in Limiting Blue Light</title>
+      <link>/publication/pedmale2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pedmale2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/person-re-identification/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/clothing-search/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Temporal transcriptional response to ethylene gas drives growth hormone cross-regulation in Arabidopsis</title>
+      <link>/publication/chang2013/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/chang2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking Proteomic and Transcriptional Data through the Interactome and Epigenome Reveals a Map of Oncogene-induced Signaling</title>
+      <link>/publication/huang2013/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/huang2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous Reconstruction of Multiple Signaling Pathways via the Prize-Collecting Steiner Forest Problem</title>
+      <link>/publication/tuncbag2013/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tuncbag2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing and Subcellular Trafficking of ER-Tethered EIN2 Control Response to Ethylene Gas</title>
+      <link>/publication/qiao2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/qiao2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
