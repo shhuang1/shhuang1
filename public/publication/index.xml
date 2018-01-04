@@ -92,26 +92,6 @@
     </item>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Temporal transcriptional response to ethylene gas drives growth hormone cross-regulation in Arabidopsis</title>
       <link>/publication/chang2013/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
@@ -144,6 +124,24 @@
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>/publication/qiao2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SteinerNet: a web server for integrating &#39;omic&#39; data to discover hidden components of response pathways</title>
+      <link>/publication/tuncbag2012/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tuncbag2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swimming Upstream: Identifying Proteomic Signals that Drive Transcriptional Changes using the Interactome and Multiple &#34;-Omics&#34; Datasets</title>
+      <link>/publication/huang2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/huang2012/</guid>
       <description></description>
     </item>
     

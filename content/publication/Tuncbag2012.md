@@ -1,7 +1,7 @@
 +++
 title = "SteinerNet: a web server for integrating 'omic' data to discover hidden components of response pathways"
 date = "2012-07-01"
-authors = ["N. Tuncbag","S. McCallum","S. C. Huang","E. Fraenkel"]
+authors = ["N. Tuncbag","S. McCallum","**S. C. Huang**","E. Fraenkel"]
 publication_types = ["2"]
 publication = "_Nucleic Acids Research_"
 publication_short = ""

@@ -1,7 +1,7 @@
 +++
 title = "Mapping transcription factor interactome networks using HaloTag protein arrays"
 date = "2016-07-01"
-authors = ["J. Yazaki","M. Galli","A. Y. Kim","K. Nito","F. Aleman","K. N. Chang","A. Carvunis","R. Quan","H. Nguyen","L. Song","J. M. Alvarez","S. Carol Huang","H. Chen","N. Ramachandran","S. Altmann","R. A. Guti'errez","D. E. Hill","J. I. Schroeder","J. Chory","J. LaBaer","M. Vidal","P. Braun","J. R. Ecker"]
+authors = ["J. Yazaki","M. Galli","A. Y. Kim","K. Nito","F. Aleman","K. N. Chang","A. Carvunis","R. Quan","H. Nguyen","L. Song","J. M. Alvarez","**S. Carol Huang**","H. Chen","N. Ramachandran","S. Altmann","R. A. Guti'errez","D. E. Hill","J. I. Schroeder","J. Chory","J. LaBaer","M. Vidal","P. Braun","J. R. Ecker"]
 publication_types = ["2"]
 publication = "_Proceedings of the National Academy of Sciences_"
 publication_short = ""

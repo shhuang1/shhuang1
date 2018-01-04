@@ -1,7 +1,7 @@
 +++
 title = "Swimming Upstream: Identifying Proteomic Signals that Drive Transcriptional Changes using the Interactome and Multiple \"-Omics\" Datasets"
 date = "2012-01-01"
-authors = ["S. Carol Huang","E. Fraenkel"]
+authors = ["**S. Carol Huang**","E. Fraenkel"]
 publication_types = ["6"]
 publication = "_Methods in cell biology_"
 publication_short = ""

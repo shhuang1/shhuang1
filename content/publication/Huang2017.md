@@ -1,7 +1,7 @@
 +++
 title = "Piecing together cis-regulatory networks: insights from epigenomics studies in plants"
 date = "2017-11-01"
-authors = ["S. C. Huang","J. R. Ecker"]
+authors = ["**S. C. Huang**","J. R. Ecker"]
 publication_types = ["2"]
 publication = "_Wiley Interdisciplinary Reviews: Systems Biology and Medicine_"
 publication_short = ""

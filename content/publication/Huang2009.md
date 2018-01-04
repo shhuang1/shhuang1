@@ -1,7 +1,7 @@
 +++
 title = "Integrating Proteomic, Transcriptional, and Interactome Data Reveals Hidden Components of Signaling and Regulatory Networks"
 date = "2009-07-01"
-authors = ["S. C. Huang","E. Fraenkel"]
+authors = ["**S. C. Huang**","E. Fraenkel"]
 publication_types = ["2"]
 publication = "_Science Signaling_"
 publication_short = ""

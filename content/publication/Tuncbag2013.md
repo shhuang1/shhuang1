@@ -1,7 +1,7 @@
 +++
 title = "Simultaneous Reconstruction of Multiple Signaling Pathways via the Prize-Collecting Steiner Forest Problem"
 date = "2013-02-01"
-authors = ["N. Tuncbag","A. Braunstein","A. Pagnani","S. Carol Huang","J. Chayes","C. Borgs","R. Zecchina","E. Fraenkel"]
+authors = ["N. Tuncbag","A. Braunstein","A. Pagnani","**S. Carol Huang**","J. Chayes","C. Borgs","R. Zecchina","E. Fraenkel"]
 publication_types = ["2"]
 publication = "_Journal of Computational Biology_"
 publication_short = ""

@@ -1,7 +1,7 @@
 +++
 title = "Linking Proteomic and Transcriptional Data through the Interactome and Epigenome Reveals a Map of Oncogene-induced Signaling"
 date = "2013-02-01"
-authors = ["S. Carol Huang","D. C. Clarke","S. J. C. Gosline","A. Labadorf","C. R. Chouinard","W. Gordon","D. A. Lauffenburger","E. Fraenkel"]
+authors = ["**S. Carol Huang**","D. C. Clarke","S. J. C. Gosline","A. Labadorf","C. R. Chouinard","W. Gordon","D. A. Lauffenburger","E. Fraenkel"]
 publication_types = ["2"]
 publication = "_PLoS Computational Biology_"
 publication_short = ""

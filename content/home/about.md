@@ -18,6 +18,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Postdoc"
+  institution = "The Salk Institute for Biological Studies"
+  year = 2017
+  
+[[education.courses]]
   course = "PhD in Computational and Systems Biology"
   institution = "Massachusetts Institute of Technology"
   year = 2011

@@ -1,7 +1,7 @@
 +++
 title = "Temporal transcriptional response to ethylene gas drives growth hormone cross-regulation in Arabidopsis"
 date = "2013-06-01"
-authors = ["K. Noelani Chang","S. Zhong","M. T Weirauch","G. Hon","M. Pelizzola","H. Li","S. Carol Huang","R. J Schmitz","M. A Urich","D. Kuo","J. R Nery","H. Qiao","A. Yang","A. Jamali","H. Chen","T. Ideker","B. Ren","Z. Bar-Joseph","T. R Hughes","J. R Ecker"]
+authors = ["K. Noelani Chang","S. Zhong","M. T Weirauch","G. Hon","M. Pelizzola","H. Li","**S. Carol Huang**","R. J Schmitz","M. A Urich","D. Kuo","J. R Nery","H. Qiao","A. Yang","A. Jamali","H. Chen","T. Ideker","B. Ren","Z. Bar-Joseph","T. R Hughes","J. R Ecker"]
 publication_types = ["2"]
 publication = "_eLife_"
 publication_short = ""

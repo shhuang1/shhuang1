@@ -1,7 +1,7 @@
 +++
 title = "Cistrome and Epicistrome Features Shape the Regulatory DNA Landscape"
 date = "2016-05-01"
-authors = ["R. O'Malley","S. Huang","L. Song","M. Lewsey","A. Bartlett","J. Nery","M. Galli","A. Gallavotti","J. Ecker"]
+authors = ["R. O'Malley&ast;","**S. Huang**&ast;","L. Song","M. Lewsey","A. Bartlett","J. Nery","M. Galli","A. Gallavotti","J. Ecker"]
 publication_types = ["2"]
 publication = "_Cell_"
 publication_short = ""
