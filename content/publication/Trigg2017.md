@@ -1,7 +1,7 @@
 +++
 title = "CrY2H-seq: a massively multiplexed assay for deep-coverage interactome mapping"
 date = "2017-06-01"
-authors = ["S. A Trigg","R. M Garza","A. MacWilliams","J. R Nery","A. Bartlett","R. Castanon","A. Goubil","J. Feeney","R. O'Malley","**S. C Huang**","Z. Z Zhang","M. Galli","J. R Ecker"]
+authors = ["S. A Trigg","R. M Garza","A. MacWilliams","J. R Nery","A. Bartlett","R. Castanon","A. Goubil","J. Feeney","R. O'Malley","**S. C Huang**","Z. Z Zhang","M. Galli","J. R. Ecker"]
 publication_types = ["2"]
 publication = "_Nature Methods_"
 publication_short = ""
