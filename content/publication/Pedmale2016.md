@@ -1,7 +1,7 @@
 +++
 title = "Cryptochromes Interact Directly with PIFs to Control Plant Growth in Limiting Blue Light"
 date = "2016-01-01"
-authors = ["U. Pedmale","**S. Huang**","M. Zander","B. Cole","J. Hetzel","K. Ljung","P. Reis","P. Sridevi","K. Nito","J. Nery","J. Ecker","J. Chory"]
+authors = ["U. Pedmale","**S. Huang**","M. Zander","B. Cole","J. Hetzel","K. Ljung","P. Reis","P. Sridevi","K. Nito","J. Nery","J. R. Ecker","J. Chory"]
 publication_types = ["2"]
 publication = "_Cell_"
 publication_short = ""

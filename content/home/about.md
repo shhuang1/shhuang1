@@ -35,7 +35,12 @@ weight = 5
  
 +++
 
-# Biography
+# About me
 
-S. Carol Huang is an assistant professor in the Center for Genomics and Systems Biology, Department of Biology at New York University.  Her research focuses on making innovative use of computational methods and high-throughput technologies to advance knowledge of gene regulation at the systems level for both plants and humans.
+I am an assistant professor in the Center for Genomics and Systems Biology, Department of Biology at New York University.  I earned a doctorate in computational and systems biology with focus on both "dry"- and "wet"-lab genomics methods. My research aims to make innovative use of computational methods and high-throughput technologies to advance knowledge of gene regulation at the systems level. Specifically, I am interested in understanding how the repertoire of molecular variations at the levels of individual and population give rise to phenotypic variations in realistic environment.  Using plants as a model, my lab investigates three topics related to stress responses:
+
+- genetic and epigenetic determinants for stress response traits in natural populations of one species;
+- single cell methods for characterization of cell type specific responses;
+- population and cell-type specific regulatory networks for stress response.
+
  

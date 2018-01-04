@@ -1,7 +1,7 @@
 +++
 title = "Epigenomic Diversity in a Global Collection of Arabidopsis thaliana Accessions"
 date = "2016-07-01"
-authors = ["T. Kawakatsu&ast;","**S. Carol Huang**&ast;","F. Jupe&ast;","E. Sasaki&ast;","R. J. Schmitz","M. A. Urich","R. Castanon","J. R. Nery","C. Barragan","Y. He","H. Chen","M. Dubin","C. Lee","C. Wang","F. Bemm","C. Becker","R. O'Neil","R. C. O'Malley","D. X. Quarless","N. J. Schork","D. Weigel","M. Nordborg","J. R. Ecker","C. Alonso-Blanco","J. Andrade","C. Becker","F. Bemm","J. Bergelson","K. Borgwardt","E. Chae","T. Dezwaan","W. Ding","J. R. Ecker","M. Exp'osito-Alonso","A. Farlow","J. Fitz","X. Gan","D. G. Grimm","A. Hancock","S. R. Henz","S. Holm","M. Horton","M. Jarsulic","R. A. Kerstetter","A. Korte","P. Korte","C. Lanz","C. Lee","D. Meng","T. P. Michael","R. Mott","N. Wayan Muliyati","T. Nagele","M. Nagler","V. Nizhynska","M. Nordborg","P. Novikova","F. Xavier Pico","A. Platzer","F. A. Rabanal","A. Rodriguez","B. A. Rowan","P. A. Salom'e","K. Schmid","R. J. Schmitz","U. Seren","F. Gianluca Sperone","M. Sudkamp","H. Svardal","M. M. Tanzer","D. Todd","S. L. Volchenboum","C. Wang","G. Wang","X. Wang","W. Weckwerth","D. Weigel","X. Zhou"]
+authors = ["T. Kawakatsu&ast;","**S. Carol Huang**&ast;","F. Jupe&ast;","E. Sasaki&ast;","R. J. Schmitz","M. A. Urich","R. Castanon","J. R. Nery","C. Barragan","Y. He","H. Chen","M. Dubin","C. Lee","C. Wang","F. Bemm","C. Becker","R. O'Neil","R. C. O'Malley","D. X. Quarless","The 1001 Genomes Consortium", "N. J. Schork","D. Weigel","M. Nordborg","J. R. Ecker"]
 publication_types = ["2"]
 publication = "_Cell_"
 publication_short = ""

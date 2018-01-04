@@ -1,7 +1,7 @@
 +++
 title = "Mapping genome-wide transcription-factor binding sites using DAP-seq"
 date = "2017-07-01"
-authors = ["A. Bartlett","R. C O'Malley","**S. Carol Huang**","M. Galli","J. R Nery","A. Gallavotti","J. R Ecker"]
+authors = ["A. Bartlett","R. C. O'Malley","**S. Carol Huang**","M. Galli","J. R. Nery","A. Gallavotti","J. R. Ecker"]
 publication_types = ["2"]
 publication = "_Nature Protocols_"
 publication_short = ""
