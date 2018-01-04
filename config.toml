@@ -242,9 +242,14 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
+  name = "CV"
+  url = "files/cv/shhuang_cv_161229.pdf"
+  weight = 3
+  
+[[menu.main]]
   name = "Posts"
   url = "#posts"
-  weight = 3
+  weight = 4
 
 #[[menu.main]]
 #  name = "Projects"
@@ -267,10 +272,10 @@ defaultContentLanguageInSubdir = false
   weight = 7
 
 # Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+#[taxonomies]
+ # tag = "tags"
+#  category = "categories"
+ # publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
