@@ -1,7 +1,7 @@
 +++
 title = "Epigenomic Diversity in a Global Collection of Arabidopsis thaliana Accessions"
 date = "2016-07-01"
-authors = ["T. Kawakatsu&ast;","**S. Carol Huang**&ast;","F. Jupe&ast;","E. Sasaki&ast;","R. J. Schmitz","M. A. Urich","R. Castanon","J. R. Nery","C. Barragan","Y. He","H. Chen","M. Dubin","C. Lee","C. Wang","F. Bemm","C. Becker","R. O'Neil","R. C. O'Malley","D. X. Quarless","The 1001 Genomes Consortium", "N. J. Schork","D. Weigel","M. Nordborg","J. R. Ecker"]
+authors = ["T. Kawakatsu&ast;","**S. Carol Huang**&ast;","F. Jupe&ast;","E. Sasaki&ast;","R. J. Schmitz","M. A. Urich","R. Castanon","J. R. Nery","C. Barragan","Y. He","H. Chen","M. Dubin","C. Lee","C. Wang","F. Bemm","C. Becker","R. O'Neil","R. C. O'Malley","D. X. Quarless","The 1001 Genomes Consortium", "N. J. Schork","D. Weigel","M. Nordborg","J. R. Ecker", "(&ast; indicates co-first author)"]
 publication_types = ["2"]
 publication = "_Cell_"
 publication_short = ""
