@@ -1,5 +1,5 @@
 baseurl = "https://shhuang1.netlify.com/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Huang Lab for Genomic Analysis, New York University"
+title = "Huang Lab @ NYU"
 copyright = "&copy; 2017 Shao-shan Carol Huang"
 theme = "hugo-academic"
 enableEmoji = true
@@ -39,15 +39,15 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Shao-shan Carol Huang"
-  role = "Assistant Professor"
+  name = "Huang Lab for Genomic Analysis"
+  role = "Department of Biology"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "New York University", url = "https://www.biology.as.nyu.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "shhuang_IMG_4159_nov2017_flip.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "logos/huang_lab_logo.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "ch153@nyu.edu"
   address = "12 Waverly Pl, New York, NY 10003"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = "logos/huang_lab_logo.png"
+  logo = ""
 
   # Enable/disable map in Contact widget.
   # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
@@ -242,8 +242,8 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "CV"
-  url = "files/cv/shhuang_cv_180104.pdf"
+  name = "People"
+  url = "people"
   weight = 3
   
 [[menu.main]]
@@ -256,10 +256,10 @@ defaultContentLanguageInSubdir = false
 #  url = "#projects"
 #  weight = 4
 
-[[menu.main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 4
+#[[menu.main]]
+#  name = "Talks"
+#  url = "#talks"
+# weight = 4
 
 #[[menu.main]]
 #  name = "Teaching"
