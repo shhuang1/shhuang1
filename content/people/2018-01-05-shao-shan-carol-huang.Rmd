@@ -1,0 +1,17 @@
+---
+title: 'Shao-shan Carol Huang'
+author: 'S. Carol Huang'
+date: '2018-01-05'
+slug: shhuang
+categories: ['lab people']
+tags: ['lab people']
+showonlyimage: false
+draft: false
+image: "lab/Huang_lab_Jan2018_medium.jpeg"
+header:
+  image: "lab/Huang_lab_Jan2018_medium.jpeg"
+  preview: TRUE
+weight: 1
+description: "abc"
+
+---

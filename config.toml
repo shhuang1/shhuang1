@@ -243,7 +243,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "People"
-  url = "people"
+  url = "#people"
   weight = 3
   
 [[menu.main]]
@@ -251,10 +251,10 @@ defaultContentLanguageInSubdir = false
   url = "#posts"
   weight = 5
 
-#[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 4
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 4
 
 #[[menu.main]]
 #  name = "Talks"
