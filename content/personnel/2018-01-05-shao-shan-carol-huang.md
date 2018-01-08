@@ -11,7 +11,8 @@ tags:
 header:
   caption: ''
   image: ''
+image: 'shhuang_IMG_4159_nov2017_flip2.jpg'
 image_preview: 'shhuang_IMG_4159_nov2017_flip2.jpg'
 ---
 
-I am an assistant professor in the Department of Biology at New York University.
+I am an assistant professor in the Center of Genomics and Systems Biology in the Department of Biology at New York University.  
