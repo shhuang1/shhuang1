@@ -22,7 +22,22 @@ Center for Genomics and Systems Biology<br />
 Department of Biology<br />
 New York University<br />
 
-{{% staticref "files/cv/shhuang_cv_180104.pdf" "newtab" %}}CV{{% /staticref %}}
+{{% staticref "files/cv/shhuang_cv_180104.pdf" "newtab" %}}Download CV{{% /staticref %}}
+
+<p>
+<a itemprop="sameAs" href="mailto:s.c.huang@nyu.edu" target="_blank" rel="noopener">
+<i class="fa fa-envelope"></i>
+</a>
+<a itemprop="sameAs" href="//twitter.com/shhuang1" target="_blank" rel="noopener">
+<i class="fa fa-twitter"></i>
+</a>
+<a itemprop="sameAs" href="https://scholar.google.com/citations?user=10Fx1a4AAAAJ&amp;hl=en" target="_blank" rel="noopener">
+<i class="ai ai-google-scholar"></i>
+</a>
+<a itemprop="sameAs" href="//github.com/shhuang1" target="_blank" rel="noopener">
+<i class="fa fa-github"></i>
+</a>
+</p>
 
 <h3>Education</h3>
 <ul class="ul-edu fa-ul">
