@@ -762,6 +762,7 @@ article {
   display: block;
   position: relative;
   min-height: 100px;
+  width: 200px;
 }
 
 .card h4 {
