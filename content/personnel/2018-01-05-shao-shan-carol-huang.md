@@ -29,14 +29,14 @@ New York University<br />
 <li>
 <i class="fa-li fa fa-graduation-cap"></i>
 <div class="description">
-<p class="course">PhD in Computational and Systems Biology, 2011</p>
+<p class="course">PhD, Computational and Systems Biology, 2011</p>
 <p class="institution">Massachusetts Institute of Technology</p>
 </div>
 </li>
 <li>
 <i class="fa-li fa fa-graduation-cap"></i>
 <div class="description">
-<p class="course">BSc in Computer Science and Biology, 2005</p>
+<p class="course">BSc, Computer Science and Biology, 2005</p>
 <p class="institution">University of British Columbia</p>
 </div>
 </li>
