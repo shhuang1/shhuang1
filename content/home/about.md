@@ -33,11 +33,11 @@ weight = 5
 
 # About the lab
 
-We are in the Center for Genomics and Systems Biology, Department of Biology at New York University.  Our lab uses both "dry"- and "wet"-lab genomics methods to study gene regulation at the systems level.  Specifically, we are interested in understanding how the repertoire of genome and epigenome variations at the levels of individual and population give rise to phenotypic variations in realistic environment.  Using plants as a model, we are taking multiple approaches to answer this question:
+We are in the Center for Genomics and Systems Biology, Department of Biology at New York University.  Our lab uses both "dry"- and "wet"-lab genomics methods to study gene regulation at the systems level. Specifically, we are interested in understanding how the repertoire of genome and epigenome variations at the levels of individual and population give rise to phenotypic variations in realistic environment. The extensive intra-specific genome and epigenome variation and adaptability to the environment found in the plant kingdom provide rich resources to investigate this question.  Working with the reference plant Arabidopsis as well as agriculturally and ecologically important plants, we focus on three related topics:
 
-- identifying genomic and epigenomic determinants of transcriptional regulation in natural populations of one species;
-- using single cell methods to characterize of cell type specific responses;
-- mapping population and cell-type specific regulatory networks for hormone responses.
+- identifying genomic and epigenomic determinants of intra-specific transcriptional variation;
+- using single cell sequencing methods to characterize cell type-specific responses;
+- mapping population- and cell type-specific regulatory networks in hormone responses.
 
 ### Research areas
 
