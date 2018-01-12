@@ -4,9 +4,10 @@ author: S. Carol Huang
 date: '2018-01-12'
 slug: lab-openings
 categories:
-  - lab news
+  - 'lab news'
 tags:
-  - lab news
+  - 'lab news'
+summary: 'We are looking for a postdoc scientist and a technician to join our lab at New York University in the heart of Manhattan.'
 ---
 
 ### We are looking for a postdoc scientist and a technician to join our lab at New York University in the heart of Manhattan.

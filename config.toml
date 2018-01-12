@@ -239,11 +239,16 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 4
 
 [[menu.main]]
   name = "People"
   url = "/people/"
+  weight = 2
+
+[[menu.main]]
+  name = "Opening positions"
+  url = "/2018/01/12/lab-openings/"
   weight = 3
   
 [[menu.main]]
