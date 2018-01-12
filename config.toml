@@ -247,7 +247,7 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "Opening positions"
+  name = "Open positions"
   url = "/2018/01/12/lab-openings/"
   weight = 3
   
