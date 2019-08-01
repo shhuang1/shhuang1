@@ -3,6 +3,7 @@ title = 'Shao-shan Carol Huang'
 summary = 'Principle Investigator'
 author = 'S. Carol Huang'
 date = '2018-01-05'
+weight = 1
 slug = 'shhuang'
 categories = ['lab people']
 tags = ['lab people']
@@ -22,7 +23,7 @@ Center for Genomics and Systems Biology<br />
 Department of Biology<br />
 New York University<br />
 
-{{% staticref "files/cv/shhuang_cv_180104.pdf" "newtab" %}}Download CV{{% /staticref %}}
+{{% staticref "files/cv/shhuang_cv_190628.pdf" "newtab" %}}Download CV{{% /staticref %}}
 
 <p>
 <a itemprop="sameAs" href="mailto:s.c.huang@nyu.edu" target="_blank" rel="noopener">
