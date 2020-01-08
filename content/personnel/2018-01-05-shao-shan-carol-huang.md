@@ -1,6 +1,6 @@
 +++
 title = 'Shao-shan Carol Huang'
-summary = 'Principle Investigator'
+summary = 'Principal Investigator'
 author = 'S. Carol Huang'
 date = '2018-01-05'
 weight = 1
