@@ -3,6 +3,7 @@ title = 'Nathaniel Angeles'
 summary = 'Research Assistant'
 author = 'S. Carol Huang'
 date = '2019-08-01'
+draft = true
 weight = 3
 slug = 'nathaniel-angeles'
 categories = ['lab people']
