@@ -37,7 +37,7 @@ filter_default = 0
 #  tag = ".deep-learning"
 
 #[[filter]]
-#  name = "Lab People"
+#  name = "Other"
 #  tag = "lab people"
 
 +++
